@@ -1,7 +1,7 @@
 {
     "project": "accs-citisignal-test2",
     "editUrlLabel": "Document Authoring",
-    "editUrlPattern": "https://da.live/edit#/zzenadobe/accs-citisignal-test2{{pathname}}",
+    "editUrlPattern": "https://da.live/edit#/zzenadobe/accs-citisignal-test2/{{pathname}}",
     "plugins": [
         {
             "id": "cif",
